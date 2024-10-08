@@ -23,10 +23,8 @@ To send emails using your Gmail account from this script, you need to create an 
 To run the email sender, follow these steps:
 
 
-1.Open the `script.py` file and modify the following:<br>
-  ->`test_sender12@gmail.com` to your email id.<br>
-  ->`your_app_password_here` to your app password.<br>
-  ->`test123@gmail.com` to  recipient's email address.<br>
-  ->`C:\Users\user_name\path\directory\demofile` to your file path.<br>
-2.Change the email subject and body acoording to your preference.<br>
-3.Run the script in the terminal.
+1.Open the `script.py` file .<br>
+2.Run the code.<br>
+3.Enter the credentials.<br>
+4.Enter the subject, body and the path to the attachements you want to send.<br>
+5.The email will be sent.
